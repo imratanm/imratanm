@@ -1,16 +1,6 @@
 ## Hi there 👋
 
-<!--
-**imratanm/imratanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Wipro Limited
 - 🌱 I’m currently learning ... Python, Linux, Kubernetes, Docker
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... imratanm@gmail.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ...
--->
